@@ -12,7 +12,7 @@ The projects follow the development of **My Concierge**, a digital hotel room-se
 
 Defines the product opportunity, target audience, value proposition, business goals, success measures, and roadmap.
 
-📄 See: `docs/01-product-vision.pdf.pdf`
+📄 See: `docs/01-product-vision.pdf`
 
 ---
 
@@ -28,7 +28,7 @@ Documents the Design Sprint process, including:
 - User testing
 - Updated PRD
 
-📄 See: `docs/02-design-sprint.pdf.pdf`
+📄 See: `docs/02-design-sprint.pdf`
 
 ---
 
@@ -43,7 +43,7 @@ Covers:
 - Go / No-Go launch readiness
 - Stakeholder communication
 
-📄 See: `docs/03-managing-product-development.pdf.pdf`
+📄 See: `docs/03-managing-product-development.pdf`
 
 ---
 

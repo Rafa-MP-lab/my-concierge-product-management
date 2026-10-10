@@ -20,7 +20,7 @@ The prototype demonstrates the guest journey from browsing room-service menu ite
 
 Defines the product opportunity, target audience, value proposition, business goals, success measures, and roadmap.
 
-📄 See: `docs/01-product-vision.pdf`
+📄 See: 01-product-vision.pdf
 
 ---
 
@@ -36,7 +36,7 @@ Documents the Design Sprint process, including:
 - User testing
 - Updated PRD
 
-📄 See: `docs/02-design-sprint.pdf`
+📄 See: 02-design-sprint.pdf
 
 ---
 
@@ -51,7 +51,7 @@ Covers:
 - Go / No-Go launch readiness
 - Stakeholder communication
 
-📄 See: `docs/03-managing-product-development.pdf`
+📄 See: 03-managing-product-development.pdf
 
 ---
 

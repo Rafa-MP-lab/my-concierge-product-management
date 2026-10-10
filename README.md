@@ -103,13 +103,6 @@ Supporting materials created during the My Concierge launch phase:
 
 These documents demonstrate go-to-market planning, stakeholder enablement, user education, launch communications, and launch-readiness activities.
 
-### View Documents
-
-📄 Marketing Guide  
-📄 Sales & Customer Support Training Guide  
-📄 User Guide  
-📄 Launch Email
-
 ---
 
 ## Disclaimer

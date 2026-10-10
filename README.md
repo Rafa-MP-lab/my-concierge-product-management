@@ -67,7 +67,7 @@ Defines the launch strategy and go-to-market plan for My Concierge, including:
 - Post-launch monitoring
 - Launch communications
 
-📄 See: docs/04-product-launch.pdf
+📄 See: 04-product-launch.pdf
 
 ---
 

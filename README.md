@@ -2,7 +2,15 @@
 
 This repository contains coursework completed as part of the Udacity Product Management Nanodegree.
 
-The projects follow the development of **My Concierge**, a digital hotel room-service ordering concept, from product vision through design validation and product-development planning.
+The projects follow the development of My Concierge, a digital hotel room-service ordering concept, from product vision through design validation, product development, launch planning, and go-to-market readiness.
+
+## Interactive Prototype
+
+View the My Concierge interactive prototype:
+
+🔗 [My Concierge Prototype](https://www.figma.com/proto/9MBLEAGSFhDYv80jfWRmpK/Product-Prototype?node-id=0-1&t=u17SqYmRIVwfaWst-1)
+
+The prototype demonstrates the guest journey from browsing room-service menu items to placing an order through the Hilton Honors mobile experience.
 
 ---
 
@@ -47,6 +55,22 @@ Covers:
 
 ---
 
+## 4. Product Launch
+
+Defines the launch strategy and go-to-market plan for My Concierge, including:
+
+- Launch readiness assessment
+- Marketing communications
+- User enablement
+- Sales and support training
+- Success metrics
+- Post-launch monitoring
+- Launch communications
+
+📄 See: docs/04-product-launch.pdf
+
+---
+
 ## Skills Demonstrated
 
 - Product Vision
@@ -60,6 +84,11 @@ Covers:
 - Risk Management
 - Stakeholder Communication
 - Launch Readiness Assessment
+- Go-to-Market Planning
+- Product Launch Strategy
+- Product Marketing Alignment
+- Success Metrics Definition
+- Launch Communications
 
 ---
 

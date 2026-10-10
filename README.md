@@ -92,6 +92,26 @@ Defines the launch strategy and go-to-market plan for My Concierge, including:
 
 ---
 
+## Additional Launch Artifacts
+
+Supporting materials created during the My Concierge launch phase:
+
+- launch-assets/marketing-guide.pdf
+- launch-assets/training-guide.pdf
+- launch-assets/user-guide.pdf
+- launch-assets/launch-email.pdf
+
+These documents demonstrate go-to-market planning, stakeholder enablement, user education, launch communications, and launch-readiness activities.
+
+### View Documents
+
+📄 Marketing Guide  
+📄 Sales & Customer Support Training Guide  
+📄 User Guide  
+📄 Launch Email
+
+---
+
 ## Disclaimer
 
 My Concierge is an independent educational project created for coursework purposes.
